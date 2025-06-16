@@ -24,7 +24,7 @@
 
   <header>
     <h1>Siddhant Jha</h1>
-    <p>Computer Science Student | Future Developer</p>
+    <p>Computer Science Student | From Student to Software Architect in Progress</p>
   </header>
 
   <section>
@@ -49,8 +49,6 @@
       <span>C++</span>
       <span>Python (Basics)</span>
       <span>HTML & CSS</span>
-      <span>SQL</span>
-      <span>Power BI (Learning)</span>
       <span>Interpersonal Skills</span>
       <span>Communication</span>
       <span>Teamwork</span>
